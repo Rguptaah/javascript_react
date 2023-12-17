@@ -1,1 +1,1 @@
-Javascript Practice
+Javascript Learning with Practice

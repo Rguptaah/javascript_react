@@ -12,4 +12,12 @@ Prefer to not use of var
 because of issue in block scope and functional scope
 */
 
-console.table([applicationId,applicationEmail,applicationPassword,applicationCity,applicationState]);
+console.table({
+    ApplicationID : applicationId,
+    ApplicationEmail: applicationEmail,
+    ApplicationPass: applicationPassword,
+    ApplicationCity: applicationCity,
+    ApplicationState: applicationState
+});
+
+
